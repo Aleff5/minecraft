@@ -1,47 +1,44 @@
-# 🧱 Minecraft Mods Pack
+# ⚙️ Mekanism Modpack - Minecraft 1.21.1
 
-Este repositório contém uma coleção de mods para Minecraft, organizados para facilitar a instalação e o compartilhamento com amigos. Ideal para jogar em servidores ou singleplayer com uma experiência personalizada!
+Este repositório contém os arquivos `.jar` necessários para rodar o **Mekanism** e seus módulos complementares no Minecraft 1.21.1.
 
-## 🎮 Versão do Minecraft
+## 🔧 Mods incluídos
 
-- **Minecraft:** 1.20.1  
-- **Loader:** [NeoForge](https://neoforged.net/) *(ou Forge/Fabric, dependendo do seu caso)*
+- **[Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)** `1.21.1 - 10.7.12.77`  
+  Base principal do mod, adiciona sistemas de máquinas, processamentos e recursos avançados.
 
-## 📦 Lista de Mods
+- **Mekanism Generators** `1.21.1 - 10.7.12.77`  
+  Geração de energia por meio de turbinas, reatores e outros sistemas.
 
-> Aqui estão alguns dos mods incluídos (adicione ou remova conforme necessário):
+- **Mekanism Tools** `1.21.1 - 10.7.12.77`  
+  Ferramentas e armaduras customizadas com materiais do Mekanism.
 
-- 🔥 **Just Enough Items (JEI)** – Ajuda a visualizar receitas.
-- 🧭 **JourneyMap** – Minimapa com waypoint.
-- 🌿 **Biomes O’ Plenty** – Novos biomas incríveis.
-- ⚒ **Tinkers' Construct** – Sistema de ferramentas e armas personalizáveis.
-- 🧠 **AI Improvements** – Melhora o desempenho de IA dos mobs.
-- 🌌 **Applied Energistics 2** – Armazenamento e automação avançados.
-- 🚀 **Create** – Máquinas e automações criativas.
+- **mekanismcovers** `1.3-BETA+1.21`  
+  (Complemento opcional) Adiciona tampas para cabos e tubos do Mekanism, melhorando a estética das construções técnicas.
 
-## 🧰 Requisitos
+## 🎮 Requisitos
 
-- Minecraft Launcher (Prism, CurseForge, MultiMC, etc.)
-- Java 17 ou superior
-- Loader compatível (Forge/NeoForge/Fabric)  
-- Memória RAM recomendada: 4GB ou mais
+- **Minecraft**: 1.21.1  
+- **Loader**: [NeoForge](https://neoforged.net/) compatível com a versão 10.7.12.77  
+- **Java**: 17 ou superior  
+- **RAM recomendada**: 4GB ou mais
 
-## 🚀 Como usar
+## 🚀 Como instalar
 
-1. Baixe todos os arquivos da pasta `mods/` para sua pasta `.minecraft/mods`.
-2. Certifique-se de que está usando a versão correta do Minecraft e o mod loader.
-3. Inicie o jogo e divirta-se!
+1. Instale o **NeoForge** na versão 1.21.1.
+2. Baixe todos os arquivos `.jar` da pasta `/mods` e coloque na sua pasta `.minecraft/mods`.
+3. Inicie o Minecraft com o perfil NeoForge.
+4. Pronto! Agora você pode explorar tudo o que o Mekanism oferece.
 
-## 💬 Suporte
+## 📷 Screenshot de exemplo *(opcional)*
 
-Se você tiver problemas ou sugestões, abra uma *issue* ou envie um PR com melhorias.  
-Também aceitamos sugestões de mods para adicionar à coleção!
+> Adicione aqui uma imagem de gameplay com o Mekanism para ilustrar.
 
-## 📄 Licença
+## 📄 Licenciamento
 
-Este projeto é apenas uma curadoria de mods. Os mods pertencem a seus respectivos autores.  
-Consulte as licenças individuais nos sites dos mods.
+Os mods são de propriedade de seus respectivos autores e foram baixados de fontes oficiais como [CurseForge](https://curseforge.com).  
+Este repositório é apenas um facilitador de organização e instalação.
 
 ---
 
-> 🎉 Feito com amor para explorar o mundo cúbico do Minecraft!
+> ⚡ Energia, tecnologia e automação com Mekanism. Bom jogo!
